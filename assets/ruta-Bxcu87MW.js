@@ -1,0 +1,1 @@
+var e=e=>`#${e}`,t=e=>`${window.location.origin}${window.location.pathname}#${e}`;export{t as n,e as t};

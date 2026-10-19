@@ -1,0 +1,1 @@
+var e=()=>{throw Error(`No disponible en la demo del navegador`)},t=()=>async(e,t)=>t(),n={};export{t as n,n as r,e as t};
